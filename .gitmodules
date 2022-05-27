@@ -1,0 +1,3 @@
+[submodule "lib/openscad-slicer-makefile"]
+	path = lib/openscad-slicer-makefile
+	url = git@github.com:telepath/openscad-slicer-makefile.git
