@@ -17,7 +17,7 @@ This is a bell siphon with an additional pipe in the middle to allow for a water
 ### Cover Clip
 ![Cover Clip](https://github.com/tribeshouse/mini-hydroponics/raw/main/png/Siphon_hollow-Cover_Clip.png)
 
-## Box:
+## Box (ToDo):
 - Planter box
 - Planter lid
 - Planter cups
