@@ -30,7 +30,7 @@ This is the lower Box functioning as a water reservoir.
 
 ## Planter
 This is the upper box used to hold the plants and Siphon.
-![Planter](https://github.com/tribeshouse/mini-hydroponics/raw/main/png/Planter-Assembly.png)
+![Planter](https://github.com/tribeshouse/mini-hydroponics/raw/main/png/Planter-Demo.png)
 
 ### Planter Box
 ![Planter Box](https://github.com/tribeshouse/mini-hydroponics/raw/main/png/Planter-Box.png)
@@ -39,8 +39,6 @@ This is the upper box used to hold the plants and Siphon.
 ![Planter Lid](https://github.com/tribeshouse/mini-hydroponics/raw/main/png/Planter-Lid.png)
 
 ## Box (ToDo):
-- Planter box
-- Planter lid
 - Planter cups
 
 ## Makefile
